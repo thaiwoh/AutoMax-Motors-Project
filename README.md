@@ -52,62 +52,90 @@ For my deep dive into the Pet Store Data, i harnessed the power of several key t
   In this segment, I analyzed the sales performance and  Revenue  to understand Which has the highest Revenue and Least Revenue
   **Visualization & Insights:**
  - Built interactive Power BI dashboards to highlight top-performing categories.
+   
  - Used bar charts, KPIs,line-Chart and scatter-Plot chart
    
 Here are  the insights and recommendation of the sales and revenue segment
  -	**Sales Performance:**
 •	North Area shows highest dealer location sales
+
 •	Total sales for 2022: $62,570,159.76
+
 •	Vehicle models include 3 Series, C-Class, Civic, Corolla, F-150
+
 -	**Revenue Distribution:**
 •	Fairly consistent revenue across vehicle models
+
 •	P-150 shows slightly higher revenue performance
+
 •	Price points cluster around similar ranges per vehicle
+
  - **Dealer Performance:**
 •	West Mitchell leads in average dealer sales
+
 •	Consistent performance across most locations
+
 •	South Coast shows lower comparative performance
 ### Recommendations:
 1.	Expand dealership presence in high-performing North Area
+   
 2.	Investigate and replicate West Mitchell's successful practices
+	
 3.	Develop strategies to boost South Coast performance
+	
 4.	Focus marketing on high-revenue vehicle models like P-150
+	
 5.	Optimize inventory based on regional sales patterns
 
   ### 2. **.Customer Behaviour And Retention:**
   In this segment, I analyzed sales and revenue  to understand customer behaviour and  retention and its impact on revenue.
    **Visualization & Insights:**
  - Built interactive Power BI dashboards to highlight top-performing categories.
+   
  - Used Pie Chart,Bar Chart and Line Chart to visualize.
+   
   Here are the insights and recommendation of the Customer Behaviour and Retention segment
 
 1.	**Top Metrics:**
 •	Customer repeat purchase rate: 4.5%
+
 •	Average purchase frequency: 19
-2.	**Geographic Distribution:**
+
+3.	**Geographic Distribution:**
+   
 •	Congo leads in both sales and customer count
+
 •	Strong presence in Kenya, Bermuda, Burkina Faso, Norway
-3.	**Gender Analysis:**
+
+4.	**Gender Analysis:**
 •	Customer base: Female 48.17%, Male 47.71%
+
 •	Revenue split shows similar distribution
-4.	**Sales Activity:**
+
+5.	**Sales Activity:**
 •	Shows declining trend from 2009-2015
 •	Sharp drop in 2015
-5.	**Customer Rankings:**
+
+6.	**Customer Rankings:**
 •	Top customers show equal purchase counts (4 each)
 •	Even distribution among top performers
 
 ### Recommendations:
 1.	**Enhance Customer Loyalty Programs:**
 Given that the customer repeat purchase rate is relatively low, consider introducing or enhancing a loyalty program. Reward customers for repeat purchases to encourage higher repeat rates and improve overall retention.
+
 2.**Focus on High-Performing Regions:**
 With regions like Congo, Kenya, and others showing strong performance, tailor marketing and sales efforts to these geographies. Consider localized promotions and customer engagement strategies.
+
 3.	**Analyze Declining Sales Trends:**
 The decline in sales activity, especially after 2015, suggests that underlying factors (market changes, competition, or internal processes) might be affecting customer behavior. Conduct further investigations into why sales dropped and implement proactive measures to reverse the trend.
+
 4. **Gender-Based Marketing Strategies:**
 Since the customer base is relatively evenly split by gender, ensure that future marketing campaigns cater to both male and female segments. Personalize offers and content to align with the specific preferences of each group.
+
 5. **Use Customer Segmentation Analysis:**
 Beyond overall retention rates, perform deeper segmentation to identify key customer groups. Leverage the rankings of top customers to boost engagement among high-value segments and tailor your retention strategies accordingly.
+
 6. **Improve Data Monitoring and Responsiveness:**
 Regularly update and monitor these dashboards to quickly identify trends, anomalies, or shifts in customer behavior. This will help in making timely adjustments to sales and marketing strategies.
 
