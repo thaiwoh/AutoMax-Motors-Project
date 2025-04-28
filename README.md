@@ -54,8 +54,8 @@ For my deep dive into the Pet Store Data, i harnessed the power of several key t
  - Built interactive Power BI dashboards to highlight top-performing categories.
  - Used bar charts, KPIs,line-Chart and scatter-Plot chart
    
-Here's the insights and recommendation of the sales and revenue segment
-### 1.	**Sales Performance:**
+Here are  the insights and recommendation of the sales and revenue segment
+ -	**Sales Performance:**
 •	North Area shows highest dealer location sales
 •	Total sales for 2022: $62,570,159.76
 •	Vehicle models include 3 Series, C-Class, Civic, Corolla, F-150
